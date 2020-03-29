@@ -8,4 +8,4 @@ Un simple bot para telegram que resume toda la información actual sobre el coro
 Demo
 
 
-![](demo.gif)
+![](demo1.gif)
