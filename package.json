@@ -9,7 +9,7 @@
   "author": "elemikelo <elemikelo@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "telegraf": "^3.36.0"
   }
 }
